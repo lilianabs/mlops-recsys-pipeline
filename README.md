@@ -35,7 +35,7 @@ Email: theheralding@gmail.com <br/>
 Github: https://github.com/YZLoh <br/>
 
 ### Liliana
-Email: <br/>
+Email: lilianabsmath@gmail.com <br/>
 Github: https://github.com/lilianabs <br/>
 
 ## Features
